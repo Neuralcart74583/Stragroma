@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3Avar dt78KwZ9%3Dnew Date()%3Balert(dt78KwZ9.toLocaleString())%7D)()
