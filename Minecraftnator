@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3A(function()%7Bwindow.mcbmRootURI%3D'https%3A%2F%2Fluphoria.com%2FMCanywhere%2F'%3Bwindow.mcbmScriptURI%3D'mcbm.min.js'%3Bwindow.mcbmLang%3D'eng'%3Bvar s%2Css%3Dwindow.mcbmRootURI%2B'js%2Fmcbm-load.min.js'%3Bs%3Ddocument.createElement('script')%3Bs.src%3Dss%3Bdocument.body.appendChild(s)%3B%7D)()%7D)()
