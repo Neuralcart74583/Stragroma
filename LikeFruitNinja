@@ -1,0 +1,1 @@
+javascript:(function()%7B(_%3D>%7Bimport('https%3A%2F%2Fquinten.github.io%2Ftomato-smash%2Findex.js').then(_%3D>%7Bnew TomatoSmash.Game()%7D)%7D)()%7D)()
