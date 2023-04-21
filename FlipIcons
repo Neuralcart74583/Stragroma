@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3A(function()%7B%5B''%2C '-ms-'%2C '-webkit-'%2C '-o-'%2C '-moz-'%5D.map(function(prefix)%7BArray.prototype.slice.call(document.querySelectorAll('img')).map(function(el)%7Bel.style%5Bprefix %2B 'transform'%5D %3D 'rotate(180deg)'%3B%7D)%3B%7D)%3B%7D())%7D)()
