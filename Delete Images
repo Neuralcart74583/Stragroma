@@ -1,0 +1,1 @@
+javascript:(function()%7Bjavascript%3A(function()%7B %5B%5D.slice.call(document.querySelectorAll('img%2C .gist')).forEach(function(elem) %7B elem.remove()%3B %7D)%3B %7D)()%7D)()
