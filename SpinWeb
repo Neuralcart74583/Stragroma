@@ -1,1 +1,1 @@
-javascript:(function()%7Bjavascript%3AiV33MaET%3D0%3BCu4Xg8Y%3Dnew Array('n-resize'%2C'nw-resize'%2C'w-resize'%2C'sw-resize'%2C's-resize'%2C'se-resize'%2C'e-resize'%2C'ne-resize')%3BsetInterval('iV33MaET%2B%2B%3Bdocument.body.style.cursor%3DCu4Xg8Y%5BiV33MaET%258%5D'%2C150)%7D)()
+javascript:(function(){document.documentElement.style.transitionDuration="60s";document.documentElement.style.transitionTimingFunction="ease-in";document.documentElement.style.transform="rotate(360000deg)";}());
